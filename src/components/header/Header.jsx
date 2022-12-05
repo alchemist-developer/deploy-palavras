@@ -6,9 +6,9 @@ import Link from 'next/link';
 function Header() {
   return (
     <>
-      <container className="styles-header">
+      <container  style={{pading:"0"}} className="styles-header">
         {['xl'].map((expand) => (
-          <Navbar key={expand} expand={expand} className="mb-3">
+          <Navbar key={expand} expand={expand}>
             <Container fluid>
               <div className='logo-header' >
                 <Link href="/">
