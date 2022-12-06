@@ -15,7 +15,11 @@ import "../styles/desenvolvedores/index.css"
 import "../styles/globalstyles.css"
 import "../styles/swiper/index.css"
 import 'animate.css';
+
 import Head from 'next/head'
+import { Baloo } from '@next/font/google'
+
+const baloo = Baloo({ subsets: ['latin'] })
 
 function MyApp({ Component, pageProps }) {
   return (
@@ -23,7 +27,9 @@ function MyApp({ Component, pageProps }) {
       <Head>
         <title>Palavras de Paz</title>
       </Head>
-      <Component {...pageProps} />
+     <main className={baloo.className}>
+     <Component {...pageProps} />
+     </main>
     </>
   )
 }
