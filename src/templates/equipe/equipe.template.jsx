@@ -26,8 +26,8 @@ export default function ParceirosTemplate() {
     return (
         <div>
             <Header />
-            <div className="banner-gradient" style={{ zIndex: -2, display:"flex", height:"150px", padding:"10px", alignItems:"end", justifyContent:"end" }}>
-                <Typography fontWeight="700" fontSize="36px" color="white" text="SEJA NOSSO PARCEIRO" />
+            <div className="banner-gradient" style={{ zIndex: -2, display:"flex", height:"176px", padding:"10px", alignItems:"end", justifyContent:"end" }}>
+                <Typography margin="100px 0 0 0" fontWeight="700" fontSize="36px" color="white" text="SEJA NOSSO PARCEIRO" />
             </div>
             <Center>
 
