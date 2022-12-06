@@ -37,19 +37,21 @@ export default function HomeTemplate() {
         </Box>
       </Center>
 
-      <Box style={{ zIndex: -2 }}  maxWidth="100%" width="1416px" margin="80px auto" bg="rgba(33, 170, 133, 1)" padding="32px" justify="center" align="center" direction="column" textAlign="center">
+      <Box style={{ zIndex: -2 }} maxWidth="100%" width="1416px" margin="80px auto" bg="rgba(33, 170, 133, 1)" padding="32px" justify="center" align="center" direction="column" textAlign="center">
         <Typography width="88%" fontWeight="700" fontSize="36px" color="white" text="``Não é o mundo que precisa de paz, são as pessoas,
 quando as pessoas tiverem paz interior, o mundo estará em paz.´´"/>
         <Typography fontWeight="700" fontSize="36px" color="white" text="Prem Rawat" />
       </Box>
+
       <Center>
         <SwiperJs />
 
         <Box align="center" justify="center" padding="32px">
           <Button bg="rgba(33, 170, 133, 1)" color="white" href="" justify="center" width="200px" height="56px" text="Seja um parceiro" />
         </Box>
+
       </Center>
-        <FixedButton />
+      <FixedButton />
       <Footer />
     </div>
   )
