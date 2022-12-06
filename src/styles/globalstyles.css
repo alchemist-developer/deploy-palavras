@@ -5,9 +5,20 @@
     --quaternary-color: rgba(255, 255, 255, 1);
 }
 
+div.banner-gradient {
+    font-family: 'Baloo', cursive;
+    width: 1416px;
+    max-width: 100%;
+    margin: 0 auto;
+    height: 176px;
+    background: rgba(33, 170, 133, 0.8);
+    background: -webkit-linear-gradient(to right, rgba(33, 170, 133, 0.8), #0FE0AA);
+    background: linear-gradient(to right, rgba(33, 170, 133, 0.8), #0FE0AA);
+}
+
 .modal-content {
     bottom: -250px;
-  }
+}
 
 div.modal-header {
     background-color: var(--primary-color);
