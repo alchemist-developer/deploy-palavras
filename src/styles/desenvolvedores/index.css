@@ -9,6 +9,8 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+  max-width: 1416px;
+  margin: 0 auto;
 }
 .adjust-dev{
   border-radius: 50%;
@@ -26,6 +28,8 @@
   flex-wrap: wrap;
   justify-content: space-evenly;
   padding-top: 57px;
+  max-width: 1416px;
+  margin: 0 auto;
 }
 
 .button-devs{
