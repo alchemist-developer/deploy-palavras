@@ -36,7 +36,6 @@ export default class MyDocument extends Document {
           <link href="https://fonts.googleapis.com/css2?family=Baloo+2:wght@400;500;800&display=swap" rel="stylesheet" />
           <link rel="shortcut icon" href="/favicon.ico" />
           <meta name="description" content="Palavras de Paz" />
-          <title>ONG Palavras de Paz</title>
           <meta name="title" content="ONG Palavras de Paz" />
           <meta name="description" content="Voluntário é um cidadão que ao perceber diferenças sociais, disponibiliza o seu tempo para atuar em pró de outros seres humanos e assim contribui com um mundo novo." />
 
