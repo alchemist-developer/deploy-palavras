@@ -2,6 +2,7 @@ import { Container, Nav, Navbar, Offcanvas, Stack } from 'react-bootstrap';
 import Image from "next/image";
 import Logo from '../../../public/static/images/logo.svg'
 import Link from 'next/link';
+import Box from '../atoms/box/Box';
 
 function Header() {
   return (
@@ -10,6 +11,7 @@ function Header() {
         {['xl'].map((expand) => (
           <Navbar key={expand} expand={expand}>
             <Container fluid>
+              <Box>
               <div className='logo-header' >
                 <Link href="/">
                   <Image style={{ cursor: 'pointer'}} src={Logo} alt="logo-header" width="337px" height="156px" />
@@ -36,6 +38,7 @@ function Header() {
                   </Nav>
                 </Offcanvas.Body>
               </Navbar.Offcanvas>
+              </Box>
             </Container>
           </Navbar>
         ))}
