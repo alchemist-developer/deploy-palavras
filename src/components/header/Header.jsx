@@ -14,7 +14,7 @@ function Header() {
               <Box>
               <div className='logo-header' >
                 <Link href="/">
-                  <Image style={{ cursor: 'pointer'}} src={Logo} alt="logo-header" width="337px" height="156px" />
+                  <Image style={{ cursor: 'pointer'}} src={Logo} alt="logo-header" width="333px" height="150px" />
                 </Link>
               </div>
               <Navbar.Toggle aria-controls={`offcanvasNavbar-expand-${expand}`} />
