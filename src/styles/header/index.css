@@ -3,7 +3,6 @@
 .styles-header * {
   font-family: 'Open Sans', sans-serif;
   background-color: white !important;
-  max-width: 1512px;
   margin: 0 auto;
   display: flex;
   align-items: center;
@@ -11,14 +10,21 @@
 }
 
 .navbar-light {
-  padding: 10px 0 5px 0;
+  padding: 0 0 2px 0;
   z-index: 2;
+}
+
+a.nav-link {
+  width: max-content;
 }
 
 .container-fluid {
   background-color: white !important;
-  padding: 0 80px !important;
-  height: 100px;
+  height: 156px;
+  max-width: 100%;
+  box-shadow:  0 0 10px 0 rgba(0, 0, 0, 0.1);
+  margin: 0;
+  z-index: 2;
 }
 
 #buttons-header {
