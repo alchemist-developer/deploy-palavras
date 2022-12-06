@@ -5,49 +5,56 @@
   align-items: center;
 }
 
-.voluntarios-texto{
+.voluntarios-texto {
   padding: 10px;
   width: 40rem;
   font-size: 32px;
 }
 
-.voluntarios-principal{
+.voluntarios-principal {
   display: flex;
   justify-content: space-around;
   flex-wrap: wrap;
 }
+
 .voluntarios-container-main {
   width: 40rem;
 
 }
-.voluntarios-titulo-card{
+
+.voluntarios-titulo-card {
   text-align: center;
   font-family: 'Baloo', cursive;
 }
-.voluntarios-text{
+
+.voluntarios-text {
   border: 1px solid #18CA99;
   border-radius: 10px;
   height: 85%;
   text-align: center;
 }
+
 .voluntarios-text p {
   font-size: 24px;
   padding-top: 50px;
   padding: 50px;
 }
-.voluntarios-botton{
+
+.voluntarios-botton {
   text-align: center;
   font-size: 32px;
   padding: 20px;
 }
-.voluntarios-container-button{
+
+.voluntarios-container-button {
   display: flex;
- flex-wrap: wrap;
+  flex-wrap: wrap;
   justify-content: center;
-  gap:20px;
+  gap: 20px;
   padding: 20px;
 }
-.voluntarios-style-button p{
+
+.voluntarios-style-button p {
   display: flex;
 
   align-items: center;
@@ -56,16 +63,18 @@
   width: 240px;
   height: 64px;
   border-radius: 10px;
-  color:white;
+  color: white;
   font-size: 24px;
 
 
 
 }
-.voluntarios-style-button a{
+
+.voluntarios-style-button a {
   text-decoration: none;
 }
-.voluntarios-banner-botton{
+
+.voluntarios-banner-botton {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -80,24 +89,28 @@
 
 }
 
- .voluntarios-button-doacao{
+.voluntarios-button-doacao {
   display: flex;
   justify-content: center;
   align-items: center;
   padding: 50px;
+}
 
-
- }
- .voluntarios-button-doacao p{
-display: flex;
-justify-content: center;
-align-items: center;
+.voluntarios-button-doacao * {
+  display: flex;
+  justify-content: center;
+  align-items: center;
   width: 200px;
   height: 56px;
   text-align: center;
   border: 1px solid #18CA99;
   border-radius: 10px;
+  text-decoration: none;
+  font-size: 18px;
+  font-weight: bold;
+  color: black;
 
-
- }
-
+}
+#link{
+  color: #18CA99;
+}

@@ -3,6 +3,7 @@ import Image from "next/image"
 import LogoVoluntarios from '../../../public/static/images/voluntarios.png'
 import { Button } from 'react-bootstrap'
 import Center from '../atoms/center/Center'
+import Link from 'next/link'
 
 function VoluntariosMain() {
   return (
@@ -87,7 +88,7 @@ function VoluntariosMain() {
       </div>
       <Center>
         <div className='voluntarios-button-doacao'>
-          <p>Faça uma doação</p>
+          <Link href="/doacoes">Faça uma doação</Link>
         </div>
       </Center>
     </>
