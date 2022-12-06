@@ -22,6 +22,8 @@ import image_16 from "../../../public/static/images/swiper/image 16.svg"
 import image_17 from "../../../public/static/images/swiper/image 17.svg"
 import image_18 from "../../../public/static/images/swiper/image 18.svg"
 import image_19 from "../../../public/static/images/swiper/image 19.svg"
+import image_20 from "../../../public/static/images/swiper/image 20.PNG"
+import image_21 from "../../../public/static/images/swiper/image 21.svg"
 
 
 export default function SwiperJs() {
@@ -97,6 +99,16 @@ export default function SwiperJs() {
                 <SwiperSlide>
 
                     <Image width={200} height={200} className="swiperImg" src={image_19} alt="" />
+
+                </SwiperSlide>
+                <SwiperSlide>
+
+                    <Image width={200} height={200} className="swiperImg" src={image_20} alt="" />
+
+                </SwiperSlide>
+                <SwiperSlide>
+
+                    <Image width={200} height={200} className="swiperImg" src={image_21} alt="" />
 
                 </SwiperSlide>
             </Swiper>
