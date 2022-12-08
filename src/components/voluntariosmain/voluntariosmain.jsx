@@ -71,11 +71,12 @@ function VoluntariosMain() {
         <container className="voluntarios-container-button">
 
           <div className='voluntarios-style-button'>
-            <a href="https://form.jotform.com/220305437068653"><p>CADASTRO</p></a>
-          </div>
+      <p><Link style={{color: "white"}} href="https://form.jotform.com/220305437068653" alt="formulario de inscrição" >CADASTRO</Link></p>
+              </div>
 
           <div className='voluntarios-style-button'>
-            <a href='https://www.atados.com.br/' target="_blanck"><p>ATADOS</p></a>
+          <p><Link style={{color: "white"}} href="https://form.jotform.com/220305437068653" alt="link atados" >ATADOS</Link></p>
+            
           </div>
 
         </container>
