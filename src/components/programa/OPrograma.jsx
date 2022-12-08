@@ -82,7 +82,7 @@ Para isso precisamos cada vez mais divulgar nossa trabalho e aumentar o número 
       </div>
       <div className='container-programa-button'>
         <div className='programa-button2'>
-          <p>Seja um voluntário</p>
+          <a href='/voluntarios'><p>Seja um voluntário</p></a>
         </div>
 
         <div className='programa-button2'>

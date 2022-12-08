@@ -39,7 +39,7 @@ export default function FixedButton() {
         </Modal.Header>
         <Modal.Body>
           {/* formulario de contato */}
-          <form action="https://formsubmit.co/palavrasdepaz@gmail.com" method="POST">
+          <form action="https://formsubmit.co/info@palavrasdepaz.org" method="POST">
             <div className="mb-3">
               <input type="hidden" name="_template" value="box" />
               <input type="hidden" name="_autoresponse" value="Agradecemos o contato! Responderemos sua mensagem em breve!" />

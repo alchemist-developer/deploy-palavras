@@ -71,7 +71,7 @@ function VoluntariosMain() {
         <container className="voluntarios-container-button">
 
           <div className='voluntarios-style-button'>
-            <p>CADASTRO</p>
+            <a href="https://form.jotform.com/220305437068653"><p>CADASTRO</p></a>
           </div>
 
           <div className='voluntarios-style-button'>
