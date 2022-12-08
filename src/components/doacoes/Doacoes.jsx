@@ -89,8 +89,8 @@ function Doacoes() {
       </container>
       <Center>
         <container className="doacoes-contas">
-          <a href=''><p>Prestação de contas</p></a>
-          <div>  <Button variant="light">Seja um voluntário</Button></div>
+          <a href='#'><p>Prestação de contas</p></a>
+          <div>  <Button href='/voluntarios' variant="light">Seja um voluntário</Button></div>
         </container>
       </Center>
     </>

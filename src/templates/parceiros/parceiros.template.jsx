@@ -17,7 +17,7 @@ export default function ParceirosTemplate() {
     return (
         <div>
             <Header />
-            
+
             <div className="banner-gradient" style={{ zIndex: -2, display:"flex", height:"176px", padding:"10px", alignItems:"end", justifyContent:"end" }}>
                 <Typography margin="100px 0 0 0" fontWeight="700" fontSize="52px" color="white" text="SEJA NOSSO PARCEIRO" />
             </div>
@@ -75,7 +75,7 @@ export default function ParceirosTemplate() {
                 <div>
                     <Typography fontWeight="700" margin="24px 0" fontSize="32px" text="Ficaremos muito felizes com a possibilidade de trabalharmos juntos e sermos parceiros nessa jornada de resgate da humanidade!" />
                 </div>
-                <Button fontWeight="600" text="Fale diretamente com o presidente da ONG" justify="center" width="550px" height="56px" color="black" bg="#B4EFE0" />
+                <Button fontWeight="600" text="Fale diretamente com o presidente da ONG" justify="center" width="550px" height="56px" color="black" bg="#B4EFE0" href="https://wa.me/5511999756554" />
 
             </Box>
 

@@ -46,7 +46,7 @@
   padding: 20px;
 }
 
-.voluntarios-container-button {
+.voluntarios-container-button  {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
@@ -65,9 +65,6 @@
   border-radius: 10px;
   color: white;
   font-size: 24px;
-
-
-
 }
 
 .voluntarios-style-button a {
