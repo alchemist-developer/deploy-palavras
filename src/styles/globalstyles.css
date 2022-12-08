@@ -5,6 +5,27 @@
     --quaternary-color: rgba(255, 255, 255, 1);
 }
 
+@font-face {
+  font-family: "Baloo";
+  src: url('../fonts/baloo/Baloo2-Regular.ttf');
+  font-weight: normal;
+  font-style: normal;
+}
+  
+@font-face {
+  font-family: "Baloo";
+  src: url('../fonts/baloo/Baloo2-ExtraBold.ttf');
+  font-weight: bold;
+  font-style: normal;
+}
+  
+@font-face {
+  font-family: "Baloo";
+  src: url('../fonts/baloo/Baloo2-SemiBold.ttf');
+  font-weight: 700;
+  font-style: italic;
+}
+
 div.banner-gradient {
     font-family: 'Baloo', cursive;
     width: 1416px;
@@ -25,3 +46,4 @@ div.modal-header {
     background-color: var(--primary-color);
     color: var(--quaternary-color);
 }
+
