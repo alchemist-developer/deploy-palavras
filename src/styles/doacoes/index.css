@@ -39,7 +39,7 @@
   justify-content: center;
   font-size: 56px;
   padding-top: 10px;
-  font-family: 'Baloo', cursive;
+  font-family: 'Baloo', cursive, Arial, Helvetica, sans-serif;
 }
 
 .doacoes-pix {

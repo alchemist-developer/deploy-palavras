@@ -27,7 +27,7 @@
 }
 
 div.banner-gradient {
-    font-family: 'Baloo', cursive;
+    font-family: 'Baloo', cursive, arial;
     width: 1416px;
     max-width: 100%;
     margin: 0 auto;
