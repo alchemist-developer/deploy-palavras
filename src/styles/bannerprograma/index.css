@@ -86,3 +86,10 @@ justify-content: center;
     font-size: 30px;
   }
 }
+
+@media(max-width: 368px) {
+  .banner-programa p{
+    font-size: 40px;
+    
+  }
+}
