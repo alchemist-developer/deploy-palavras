@@ -1,5 +1,5 @@
 .banner-voluntarios {
-  font-family: 'Baloo', cursive;
+  font-family: 'Baloo', cursive, Arial, Helvetica, sans-serif;
   width: 1416px;
   max-width: 100%;
   margin: 0 auto;
@@ -15,4 +15,15 @@
   text-align: end;
   padding-top: 100px;
   padding-right: 50px;
+}
+@media(max-width: 566px){
+  .banner-voluntarios p{
+    font-size: 30px;
+
+  }
+}
+@media(max-width:348px) {
+  .banner-voluntarios p{
+  padding-top: 80px;
+  }
 }

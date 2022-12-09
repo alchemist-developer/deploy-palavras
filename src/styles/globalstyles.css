@@ -27,7 +27,7 @@
 }
 
 div.banner-gradient {
-    font-family: 'Baloo', cursive;
+    font-family: 'Baloo', cursive, arial !important;
     width: 1416px;
     max-width: 100%;
     margin: 0 auto;
@@ -35,7 +35,7 @@ div.banner-gradient {
     background: rgba(33, 170, 133, 0.8);
     background: -webkit-linear-gradient(to right, rgba(33, 170, 133, 0.8), #0FE0AA);
     background: linear-gradient(to right, rgba(33, 170, 133, 0.8), #0FE0AA);
-    font-weight: 700;
+    font-weight: normal;
 }
 
 .modal-content {

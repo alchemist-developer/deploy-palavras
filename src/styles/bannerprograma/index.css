@@ -1,6 +1,6 @@
 
 .banner-programa {
-  font-family: 'Baloo', cursive;
+  font-family: 'Baloo', cursive, Arial, Helvetica, sans-serif;
   width: 1416px;
   max-width: 100%;
   margin: 0 auto;
@@ -84,5 +84,12 @@ justify-content: center;
 @media(max-width: 492px) {
   .banner-photos p {
     font-size: 30px;
+  }
+}
+
+@media(max-width: 368px) {
+  .banner-programa p{
+    font-size: 40px;
+    
   }
 }
