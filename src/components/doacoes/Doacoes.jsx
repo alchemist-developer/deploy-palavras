@@ -28,15 +28,15 @@ function Doacoes() {
         <div className='doacoes-texto-icones doacoes-icones my-5'>
           <div className='text-center'>
           <Image src="/static/images/transformar.png" width="100%" height="100%" alt='' />
-            <p className='display-4'>Transformar vidas</p>
+            <p className='display-6'>Transformar vidas</p>
           </div>
           <div className='text-center'>
           <Image src="/static/images/sorriso.png" width="100%" height="100%" alt='' />
-            <p className='display-4'>Gerar sorrisos</p>
+            <p className='display-6'>Gerar sorrisos</p>
           </div>
           <div className='text-center'>
           <Image src="/static/images/paz.png" width="100%" height="100%" alt='' />
-            <p className='display-4'>Promover a paz</p>
+            <p className='display-6'>Promover a paz</p>
           </div>
         </div>
 
