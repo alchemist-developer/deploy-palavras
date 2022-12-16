@@ -25,7 +25,7 @@ export const CardContent = styled.div`
 export const CardContainer = styled.div`
     display: flex;
     justify-content: center;
-    gap: 48px;
+    gap: 24px;
     @media (max-width: 1200px) {
         margin: 0 32px;
         flex-wrap: wrap;
