@@ -74,7 +74,7 @@ function OPrograma() {
         </p>
       </div>
       <div className='programa-button'>
-        <p>Participe da Reunião</p>
+        <p><a className='text-decoration-none text-dark' href='https://us02web.zoom.us/j/81046198333'>Participe da Reunião</a></p>
       </div>
       <div className='programa-texto'>
         <p>O programa está em fase de expansão no Brasil e por isso queremos alcançar cada vez mais comunidades em situação de vulnerabilidade social e assim, alinhar a nossa estratégia com a ONU, ajudando o país com suas metas de desenvolvimento e amplificar o alcance dos Objetivos do Desenvolvimento Sustentável (ODS) da Agenda 2030 da ONU.
