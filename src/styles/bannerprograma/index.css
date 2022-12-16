@@ -19,17 +19,18 @@
 }
 
 .programa-texto{
-
-  padding: 20px;
+  width: 88%;
+  margin:auto;
   font-size: 24px;
   letter-spacing: 1px;
   font-family: 'opan sans', Arial, Helvetica, sans-serif;
 }
 .container-programa{
-
  display: flex;
- justify-content: space-around;
+ justify-content: center;
  flex-wrap: wrap;
+gap: 160px;
+margin: 40px 0;
 
 }
 
