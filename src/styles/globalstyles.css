@@ -39,11 +39,21 @@ div.banner-gradient {
 }
 
 .modal-content {
-    bottom: -250px;
+    bottom: -160px;
+    max-width: 100%;
+    width: 470px;
 }
 
 div.modal-header {
     background-color: var(--primary-color);
     color: var(--quaternary-color);
+    align-items: flex-start;
+}
+
+.btn-close {
+  border: 3px solid black;
+  border-radius: 0;
+  filter: invert();
+  width: 20px;
 }
 
