@@ -34,7 +34,7 @@ export default function SwiperJs() {
         <Box direction="column">
             <> <h1 style={{ textAlign: "center", fontWeight: "700", margin: "0 0 40px 0", fontFamily: "Baloo, cursive", textTransform: "uppercase" }}>parceiros</h1></>
             <Swiper
-                style={{ paddingLeft:"40px", paddingRight:"20px", alignItems:"center", justifyContent: 'center', width: '100%', margin:"40px 0" }}
+                style={{ paddingLeft: "40px", paddingRight: "20px", alignItems: "center", justifyContent: 'center', width: '100%', margin: "40px 0" }}
                 spaceBetween={48}
                 centeredSlides={true}
                 navigation={true}
