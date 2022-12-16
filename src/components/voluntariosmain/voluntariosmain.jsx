@@ -75,7 +75,7 @@ function VoluntariosMain() {
               </div>
 
           <div className='voluntarios-style-button'>
-          <p><Link style={{color: "white"}} href="https://form.jotform.com/220305437068653" alt="link atados" >ATADOS</Link></p>
+          <p><Link style={{color: "white"}} href="https://www.atados.com.br/ong/programa-de-educacao-para-paz/vagas" alt="link atados" >ATADOS</Link></p>
             
           </div>
 
