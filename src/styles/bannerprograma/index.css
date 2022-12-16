@@ -21,7 +21,9 @@
 .programa-texto{
 
   padding: 20px;
-  font-size: 32px;
+  font-size: 24px;
+  letter-spacing: 1px;
+  font-family: 'opan sans', Arial, Helvetica, sans-serif;
 }
 .container-programa{
 
