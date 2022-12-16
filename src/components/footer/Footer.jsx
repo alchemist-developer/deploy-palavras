@@ -19,7 +19,7 @@ function Footer() {
 
             <Link href={`https://www.youtube.com/channel/UCkmhiQTeUfdvKIY9NG9Navg`} target="_blank">
               <div>
-              <Image id="you" onMouseOver={Evento1} src="/static/images/youtube.png" width="40px" height="40px" alt='youtube' />
+              <Image className='rounded' id="you" onMouseOver={Evento1} src="/static/images/youtube.png" width="40px" height="40px" alt='youtube' />
               </div>
               </Link>
           </div>
