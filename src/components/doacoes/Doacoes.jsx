@@ -35,7 +35,7 @@ function Doacoes() {
             </div>
           </div>
           <div className='doacoes-image'>
-            <Image src="/static/images/doacoes.png" width="500%" height="100%" alt='' />
+            <Image src="/static/images/doacoes.png" width="421px" height="494px" alt='' />
           </div>
         </container>
 
@@ -90,7 +90,7 @@ function Doacoes() {
       <Center>
         <container className="doacoes-contas">
           <a href='#'><p>Prestação de contas</p></a>
-          <div>  <Button href='/voluntarios' variant="light">Seja um voluntário</Button></div>
+          <div>  <Button style={{border: '1px solid green', padding:"8px 16px"}} href='/voluntarios' variant="light" >Seja um voluntário</Button></div>
         </container>
       </Center>
     </>
