@@ -77,13 +77,13 @@ export default function ParceirosTemplate() {
                 <div>
                     <Typography fontWeight="700" margin="0 0 40px 0" fontSize="24px" text="Ficaremos muito felizes com a possibilidade de trabalharmos juntos e sermos parceiros nessa jornada de resgate da humanidade!" />
                 </div>
-                <Button margin="0 0 20px 0" fontWeight="600"  text="Fale diretamente com o presidente da ONG" justify="center" width="50vw" height="56px" color="black" bg="#B4EFE0" href="https://wa.me/5511999756554" />
+                <Button margin="0 0 20px 0" fontWeight="600"  text="Fale diretamente com o presidente da ONG" justify="center" width="55vw" height="56px" color="black" bg="#B4EFE0" href="https://wa.me/5511999756554" />
 
             </Box>
 
             <Box justify="center" padding="0 0 32px 0 " gap="48px" margin="24px 0">
-                <Button href="/depoimentos" justify="center" width="200px" height="48px" color="black" text="Mais Depoimentos" />
-                <Button href="/galeria" justify="center" width="200px" height="48px" color="black" text="Galeria de Fotos" />
+                <Button href="/depoimentos" justify="center" textAlign="center" width="200px" height="48px" color="black" text="Mais Depoimentos" />
+                <Button href="/galeria" justify="center" textAlign="center" width="200px" height="48px" color="black" text="Galeria de Fotos" />
             </Box>
 
             </Center>
