@@ -23,7 +23,7 @@ export default function ParceirosTemplate() {
             </div>
 
             <Center>
-            <Box width="80%" margin="auto" direction="column">
+            <Box width="88%" margin="auto" direction="column">
 
                 <div>
                     <Typography margin="80px 0 80px 0" fontSize="24px" align="start" text="Temos como objetivo, através de nosso programa, ajudar as pessoas a acessarem suas ferramentas internas para  encontrar a própria paz. A principal maneira que estamos disseminando o programa é a partir de parcerias com instituições de todos os setores, como, por exemplo:" />
