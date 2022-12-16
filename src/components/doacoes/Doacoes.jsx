@@ -25,7 +25,7 @@ function Doacoes() {
         </container>
         <div>
         </div>
-        <div className='doacoes-texto-icones doacoes-icones my-5'>
+        <div className='doacoes-texto-icones doacoes-icones'>
           <div className='text-center'>
           <Image src="/static/images/transformar.png" width="100%" height="100%" alt='' />
             <p className='display-6'>Transformar vidas</p>
@@ -45,7 +45,7 @@ function Doacoes() {
             <p>DOE ATRAVÉS</p>
 
           </div>
-          <div className='doacoes-empresas'>
+          <div className='doacoes-empresas my-3'>
             <div className='doacoes-pix'>
               <div>
                 <Image src="/static/images/pix.png" width="277%" height="92%" alt='' />
