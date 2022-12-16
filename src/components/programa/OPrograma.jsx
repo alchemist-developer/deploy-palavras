@@ -62,18 +62,18 @@ function OPrograma() {
             <p>Esperança</p>
           </div>
 
-          <div className='paz-icon'>
+          <div className='paz-icon d-flex flex-wrap justify-content-center'>
             <Image src="/static/images/icons/contentamento.png" width="80px" height="80px" alt="contentamento-icon" />
             <p>Contentamento</p>
           </div>
         </div>
       </container>
       <div className='programa-texto'>
-        <p>Você é nosso convidado para participar de um encontro do ​Programa de Educação para a Paz que ocorre <b>todos os dias, das 19h30min às 20h30min</b>, pela plataforma Zoom.
+        <p className='text-center'>Você é nosso convidado para participar de um encontro do ​Programa de Educação para a Paz que ocorre todos os dias, das 19h30min às 20h30min, pela plataforma Zoom.<br/> 
           De modo gratuito, online e ao vivo.
         </p>
       </div>
-      <div className='programa-button'>
+      <div className='my-5 programa-button'>
         <p><a className='text-decoration-none text-dark' href='https://us02web.zoom.us/j/81046198333'>Participe da Reunião</a></p>
       </div>
       <div className='programa-texto'>
@@ -83,7 +83,7 @@ Para isso precisamos cada vez mais divulgar nossa trabalho e aumentar o número 
       </div>
       <div className='container-programa-button'>
         <div className='programa-button2'>
-          <Link href='/voluntarios'><p>Seja um voluntário</p></Link>
+          <Link href='/voluntarios'><p className='text-center'>Seja um voluntário</p></Link>
         </div>
 
         <div className='programa-button2'>
