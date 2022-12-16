@@ -19,6 +19,7 @@ export const CardContent = styled.div`
     border: 1px solid rgba(24, 202, 153, 1);
     border-radius: 10px;
     width: 696px;
+    max-width: 100%;
     margin: 64px 0;
 `
 
