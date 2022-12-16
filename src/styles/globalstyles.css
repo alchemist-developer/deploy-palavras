@@ -1,12 +1,12 @@
 :root {
     --primary-color: rgba(33, 170, 133, 1);
-    --secondary-color: rgba(24, 202, 153, 1);
+    --secondary-color: #18ca99;
     --tertiary-color: rgba(15, 224, 170, 1);
     --quaternary-color: rgba(255, 255, 255, 1);
 }
 
 ::after {
-  color: var(--quaternary-color) !important;
+  color: rgba(252, 253, 253, 0.829) !important;
 }
 
 @font-face {
