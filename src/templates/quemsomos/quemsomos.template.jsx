@@ -14,15 +14,17 @@ export default function QuemSomosTemplate() {
     return (
         <div>
             <Header />
-            <div className="banner-gradient" style={{ zIndex: -2, display:"flex", height:"176px", padding:"10px", alignItems:"end", justifyContent:"end" }}>
+            <div className="banner-gradient" style={{ zIndex: -2, display: "flex", height: "176px", padding: "10px", alignItems: "end", justifyContent: "end" }}>
                 <Typography margin="100px 0 0 0" fontWeight="700" fontSize="52px" color="white" text="QUEM SOMOS" />
             </div>
             <Center>
-                <Box width="80%" margin="auto" direction="column">
+                <Box width="88%" margin="auto" direction="column">
                     <div>
-                        <Typography margin="24px 0" fontSize="32px" align="start" text="A ONG Palavras de Paz é uma organização sem fins lucrativos e gerida por voluntários,  tendo como objetivo ajudar as pessoas a encontrar a própria paz.
-Esse objetivo é perseguido através de uma licença obtida para pelo TPRF (Programa de  Educação para a Paz da Fundação Prem Rawat).
-Acreditamos que esse programa, internacionalmente reconhecido, pode ajudar diferentes  comunidades em situação de vulnerabilidade a resgatarem sua auto-estima, força interior,  esperança e muitos outros recursos que levam a uma vida de paz."/>
+                        <Typography margin="48px 0 0 0" fontSize="24px" align="start" text="A ONG Palavras de Paz é uma organização sem fins lucrativos e gerida por voluntários,  tendo como objetivo ajudar as pessoas a encontrar a própria paz.
+Esse objetivo é perseguido através de uma licença obtida para pelo TPRF (Programa de  Educação para a Paz da Fundação Prem Rawat)."/>
+                        <Typography margin="0 " fontSize="24px" align="start" text="A ONG Palavras de Paz é uma organização sem fins lucrativos e gerida por voluntários,  tendo como objetivo ajudar as pessoas a encontrar a própria paz.
+Esse objetivo é perseguido através de uma licença obtida para pelo TPRF (Programa de  Educação para a Paz da Fundação Prem Rawat)."/>
+                        <Typography margin="0 0 40px 0" fontSize="24px" align="start" text="Acreditamos que esse programa, internacionalmente reconhecido, pode ajudar diferentes  comunidades em situação de vulnerabilidade a resgatarem sua auto-estima, força interior,  esperança e muitos outros recursos que levam a uma vida de paz." />
                     </div>
 
                     <Box justify="space-around" flexWrap="wrap">
@@ -60,16 +62,16 @@ Acreditamos que esse programa, internacionalmente reconhecido, pode ajudar difer
 
             </Center>
 
-            <div className="banner-gradient" style={{ zIndex: -2, display:"flex", height:"176px", padding:"10px", alignItems:"end", justifyContent:"end" }}>
+            <div className="banner-gradient" style={{ zIndex: -2, display: "flex", height: "176px", padding: "10px", alignItems: "end", justifyContent: "end" }}>
                 <Typography margin="100px 0 0 0" fontWeight="700" fontSize="52px" color="white" text="NOSSA HISTÓRIA" />
             </div>
 
             <Center>
                 <Box width="80%" margin="auto" direction="column" align="center">
                     <div>
-                        <Typography margin="24px 0" fontSize="32px" align="start" text="Após um primeiro contato com vídeos de Prem Rawat, nos encantamos com sua maneira simples e didática de explicar conceitos fundamentais para se viver uma vida de paz e percebemos a transformação que tais ensinamentos fariam na vida da população brasileira. " />
-                        <Typography margin="24px 0" fontSize="32px" align="start" text="Em 2003, fundamos a ONG, onde até 2013 transmitíamos os vídeos de Prem Rawat para o Canal Comunitário de televisão. " />
-                        <Typography margin="24px 0" fontSize="32px" align="start" text="Em 2011, paralelamente, firmamos parcerias com muitas entidades e associações e conseguimos levar o programa para os presídios de SP, trabalho que se estende até hoje.
+                        <Typography margin="40px 0" fontSize="24px" align="start" text="Após um primeiro contato com vídeos de Prem Rawat, nos encantamos com sua maneira simples e didática de explicar conceitos fundamentais para se viver uma vida de paz e percebemos a transformação que tais ensinamentos fariam na vida da população brasileira. " />
+                        <Typography margin="24px 0" fontSize="24px" align="start" text="Em 2003, fundamos a ONG, onde até 2013 transmitíamos os vídeos de Prem Rawat para o Canal Comunitário de televisão. " />
+                        <Typography margin="24px 0" fontSize="24px" align="start" text="Em 2011, paralelamente, firmamos parcerias com muitas entidades e associações e conseguimos levar o programa para os presídios de SP, trabalho que se estende até hoje.
 Nos últimos anos conseguimos alcançar outras comunidades, levando o programa também para  idosos, dependentes químicos, moradores em situação de rua e refugiados. "/>
 
                     </div>
