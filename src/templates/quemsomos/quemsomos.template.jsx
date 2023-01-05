@@ -20,9 +20,9 @@ export default function QuemSomosTemplate() {
             <Center>
                 <Box width="88%" margin="auto" direction="column">
                     <div>
-                        <Typography margin="48px 0 0 0" fontSize="24px" align="start" text="A ONG Palavras de Paz é uma organização sem fins lucrativos e gerida por voluntários,  tendo como objetivo ajudar as pessoas a encontrar a própria paz.
+                        <Typography margin="48px 0 20px 0" fontSize="24px" align="start" text="A ONG Palavras de Paz é uma organização sem fins lucrativos e gerida por voluntários,  tendo como objetivo ajudar as pessoas a encontrar a própria paz.
 Esse objetivo é perseguido através de uma licença obtida para pelo TPRF (Programa de  Educação para a Paz da Fundação Prem Rawat)."/>
-                        <Typography margin="0 0 40px 0" fontSize="24px" align="start" text="Acreditamos que esse programa, internacionalmente reconhecido, pode ajudar diferentes  comunidades em situação de vulnerabilidade a resgatarem sua auto-estima, força interior,  esperança e muitos outros recursos que levam a uma vida de paz." />
+                        <Typography margin="0 0 20px 0" fontSize="24px" align="start" text="Acreditamos que esse programa, internacionalmente reconhecido, pode ajudar diferentes  comunidades em situação de vulnerabilidade a resgatarem sua auto-estima, força interior,  esperança e muitos outros recursos que levam a uma vida de paz." />
                         <Typography margin="0 " fontSize="24px" align="start" text="Ao invés de descrever ou definir a paz, o programa empodera os indivíduos a alcançar seu próprio entendimento. Todos podem se beneficiar. O programa já se provou eficiente em uma variedade de situações, incluindo centros comunitários, grupos de jovens, escolas, programas de educação para adultos, grupos de veteranos de guerra, centros de aposentados, abrigos de moradores em situação de rua, instituições de reabilitação de dependentes químicos e penitenciárias."/>
                           </div>
 
