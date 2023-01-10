@@ -71,7 +71,7 @@ Esse objetivo é perseguido através de uma licença obtida para pelo TPRF (Prog
                         <Typography margin="40px 0" fontSize="24px" align="start" text="Após um primeiro contato com vídeos de Prem Rawat, nos encantamos com sua maneira simples e didática de explicar conceitos fundamentais para se viver uma vida de paz e percebemos a transformação que tais ensinamentos fariam na vida da população brasileira. " />
                         <Typography margin="24px 0" fontSize="24px" align="start" text="Em 2003, fundamos a ONG, onde até 2013 transmitíamos os vídeos de Prem Rawat para o Canal Comunitário de televisão. " />
                         <Typography margin="24px 0" fontSize="24px" align="start" text="Em 2011, paralelamente, firmamos parcerias com muitas entidades e associações e conseguimos levar o programa para os presídios de SP, trabalho que se estende até hoje.
-Nos últimos anos conseguimos alcançar outras comunidades, levando o programa também para  idosos, dependentes químicos, moradores em situação de rua e refugiados. "/>
+Nos últimos anos conseguimos alcançar outras comunidades, levando o programa também para alunos e professores de escolas, universitários em várias faculdades, membros de centros culturais, funcionários de associações e empresas, idosos, dependentes químicos, moradores em situação de rua e refugiados. "/>
 
                     </div>
                     <Button href="/equipe" text="Nossa equipe" justify="center" width="200px" margin="20px 0 40px 0" height="56px" color="black" />
